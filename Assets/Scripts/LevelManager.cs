@@ -18,6 +18,7 @@ public class LevelManager : MonoBehaviour {
         // set the instance property/variable to this object
         instance = this;
 
+
         tileMapB.SetActive(false);
         tileMapC.SetActive(true);
 
